@@ -6,7 +6,7 @@ The main function to use is regularity_3d() from file [regularity_3d.py](regular
 
 The steps of the methodology described in the paper are implemented in the following functions:
 
-### Section 3.1 Ellipsoid Fitting
+#### Section 3.1 Ellipsoid Fitting
 Lines 347 to 351 of function regularity_3d in file [regularity_3d.py](regularity_3d/regularity_3d.py)
 ### Section 3.2 Border Detection
 Function get_border_2D() in file [regularity_3d.py](regularity_3d/regularity_3d.py)
