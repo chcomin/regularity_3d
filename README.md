@@ -1,6 +1,6 @@
 # Regularity 3D
 
-![Example](polygonality2.png)
+![Example](polygonality3.png)
 
 Calculate the regularity of a point cloud using the methodology described in "Quantifying the Regularity of a 3D Set of Points on the Surface of an Ellipsoidal Object" (to be published). It is assumed that the points are distributed approximately along the surface of an ellipsoid. The regularity is quantified as an extension of the polygonality to 3D point clouds.
 
