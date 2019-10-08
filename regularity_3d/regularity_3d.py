@@ -383,7 +383,7 @@ def regularity_3d(points, d_max=5., plot_data=False):
 
 if __name__=='__main__':
 
-	input_file = 'DriedGnattData'
+	input_file = 'Eye_1_temperate'
 	output_file = 'measurements'
 
 	facets = util.read_facets('data/%s_facet_pts.csv'%input_file)
