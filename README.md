@@ -2,7 +2,7 @@
 
 ![Example](polygonality3.png)
 
-Calculate the regularity of a point cloud using the methodology described in "Quantifying the Regularity of a 3D Set of Points on the Surface of an Ellipsoidal Object" (to be published). It is assumed that the points are distributed approximately along the surface of an ellipsoid. The regularity is quantified as an extension of the polygonality to 3D point clouds.
+Calculate the regularity of a point cloud using the methodology described in [Quantifying the Regularity of a 3D Set of Points on the Surface of an Ellipsoidal Object](https://www.sciencedirect.com/science/article/abs/pii/S0167865520300519). It is assumed that the points are distributed approximately along the surface of an ellipsoid. The regularity is quantified as an extension of the polygonality to 3D point clouds.
 
 The main function to use is regularity_3d() from file [regularity_3d.py](regularity_3d/regularity_3d.py). Please refer to the documentation of that function (and also of the function polygonality() in the same file) for usage details. 
 
